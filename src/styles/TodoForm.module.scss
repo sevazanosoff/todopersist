@@ -1,0 +1,21 @@
+.todo__form{
+        text-align: center;
+        margin-bottom: 25px;
+}
+
+
+
+.button{
+    margin-left: -40px;
+    padding: 10px;
+    background-color: lightblue;
+    border: 1px solid black;
+    font-weight: bold;
+    transition: 0.1s ease-in;
+    cursor: pointer;
+    &:hover{
+        transition: 0.1s ease-out;
+        background-color: lightcyan;
+    }
+}
+

@@ -1,0 +1,16 @@
+.select{
+    margin-bottom: 15px;
+    label{
+        display: block;
+        font-weight: bold;
+    }
+    select{
+        display: block;
+        margin: 0 0 5px;
+        height: 29px;
+        width: 100%;
+        outline: none;
+        border: 1px solid black;
+        transition: all 300ms ease-in-out;
+    }   
+}
